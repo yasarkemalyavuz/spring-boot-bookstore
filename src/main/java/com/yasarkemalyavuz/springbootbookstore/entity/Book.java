@@ -1,4 +1,4 @@
-package com.yasarkemalyavuz.springbootbookstore.Entity;
+package com.yasarkemalyavuz.springbootbookstore.entity;
 
 public class Book {
 
